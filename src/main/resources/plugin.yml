@@ -1,0 +1,6 @@
+name: IShouldBeInvisible
+main: net.shotbow.geyser.Plugin
+version: 1.0
+commands:
+  ishouldbeinvisible:
+    description: Spawns an invisible armor stand, or does it?
